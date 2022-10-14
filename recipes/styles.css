@@ -1,7 +1,22 @@
 *{
     background-color: gray;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif
 }
-.div-1{
-    align-self: hover;
+
+.image{
+    align-self: center;
+    margin: 5px;
+    padding: 30px;  
+}
+
+a:hover{
+    color: green;
+    font-weight: bold;
+    font-size: large;
+}
+
+.image:hover{
+    
+    color: brown;
+    -webkit-animation: normal;
 }
